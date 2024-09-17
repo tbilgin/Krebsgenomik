@@ -3,9 +3,9 @@ Heute erfordern alle Bereiche der Biowissen-schaften Fähigkeiten im Umgang mit 
 
 ## Vorgeschlagener Plan:
 Erstens werden wir über Krebs und die Rolle von Mutationen bei der Krebsentstehung sprechen. Hier sind die Literaturprobe:
-1) folgende Seiten auf studyflix.de : Gen, Genom, Genwirkkette, Proteinbiosynthese, DNA Funktion, Mutation, Mutagene
-2) Dieses ETH Video: https://ethz.ch/de/studium/bachelor/studienangebot/naturwissenschaften-und-mathematik/biologie/schnuppervorlesungen/-genetik--genomik--bioinformatik---dr--ulrich-genick-.html
-3) Dieses Papier an Krebsgene: [Mutationen gezielt aufspüren](https://www.organische-chemie.ch/chemie/2007feb/mutationen.shtm)
+1) folgende Seiten auf studyflix.de : [Gen](https://studyflix.de/biologie/gen-2599), [Genom](https://studyflix.de/biologie/genom-2645), [Genwirkkette](https://studyflix.de/biologie/genwirkkette-6706), [Proteinbiosynthese](https://studyflix.de/biologie/proteinbiosynthese-2288), [DNA Funktion](https://studyflix.de/biologie/dna-funktion-2601), [Mutation](https://studyflix.de/biologie/mutation-2582), [Mutagene](https://studyflix.de/biologie/mutagene-2574)
+2) [Dieses ETH Video](https://ethz.ch/de/studium/bachelor/studienangebot/naturwissenschaften-und-mathematik/biologie/schnuppervorlesungen/-genetik--genomik--bioinformatik---dr--ulrich-genick-.html)
+3) Dieses Papier an Krebsgene: [Mutationen gezielt aufspüren](https://www.organische-chemie.ch/chemie/2007feb/mutationen.shtm) 
 
 ## Mit Bioinformatik-Werkzeugen zur Erforschung von Krebsgenen:
 Wir werden Krebsgene im Integrative Genomics Viewer Tool untersuchen, einem Online-Tool, das ihr im Browser verwenden könnt, um Mutationen in Genen zu visualisieren. 
