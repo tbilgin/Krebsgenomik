@@ -3,6 +3,9 @@ Heute erfordern alle Bereiche der Biowissen-schaften Fähigkeiten im Umgang mit 
 
 ## Vorgeschlagener Plan:
 Erstens werden wir über Krebs und die Rolle von Mutationen bei der Krebsentstehung sprechen. Hier sind die Literaturprobe:
+1) folgende Seiten auf studyflix.de : Gen, Genom, Genwirkkette, Proteinbiosynthese, DNA Funktion, Mutation, Mutagene
+2) Dieses ETH Video: https://ethz.ch/de/studium/bachelor/studienangebot/naturwissenschaften-und-mathematik/biologie/schnuppervorlesungen/-genetik--genomik--bioinformatik---dr--ulrich-genick-.html
+3) Dieses Papier an Krebsgene: [Mutationen gezielt aufspüren](https://www.organische-chemie.ch/chemie/2007feb/mutationen.shtm)
 
 ## Mit Bioinformatik-Werkzeugen zur Erforschung von Krebsgenen:
 Wir werden Krebsgene im Integrative Genomics Viewer Tool untersuchen, einem Online-Tool, das ihr im Browser verwenden könnt, um Mutationen in Genen zu visualisieren. 
