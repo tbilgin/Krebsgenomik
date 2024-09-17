@@ -33,8 +33,29 @@ Standardmäßig lädt IGV Human hg19 als Referenzgenom. Wenn du mit einer andere
 
 Wir laden auch weitere Tracks von **Server** *(Datei -> Vom Server laden)*:
 
-* Ensembl Gene (oder deine bevorzugte Quelle von Gen-Anmerkungen)
+* Ensembl Gene 
 * GC Prozentsatz
 * dbSNP 1.4.7
 
 *Hinweis:* Wenn du einen Computer mit wenig Speicher verwendest, lade nur die Gen-Anmerkungen.
+
+### Navigation
+
+Du solltest eine Liste der Chromosomen in diesem Referenzgenom sehen. Klicke auf **1**, für Chromosom 1.
+
+![Chromosomenauswahl](https://bioinformatics-ca.github.io/images/Igv-chromosomes.png)
+
+Navigiere zu **chr1:10,000-11,000**, indem du dies in das Positionsfeld (in der oberen linken Ecke des Interface) eingibst und auf **Go** klicken oder Enter/Return auf deiner Tastatur drückst. Dies zeigt ein Fenster des Chromosoms 1, das 1.000 Basenpaare breit ist und bei der Position 10.000 beginnt.
+
+![Navigation über das Textfeld Ort. Sequenzspur wird als Farbfolge angezeigt.](https://bioinformatics-ca.github.io/images/Igv-1.png)
+
+IGV stellt die Buchstabensequenz in einem Genom als Farbfolge dar (z.B. A = grün). Wiederholbare Sequenzen, wie sie am Anfang dieser Region zu finden sind, sind dadurch leicht erkennbar.
+
+Du kannst zu einem interessanten Gen navigieren, indem du es in das gleiche Feld wie die Genomkoordinaten eintippen und die Eingabetaste drückst. Probiere es für dein Lieblingsgen oder BRCA1, wenn du dich nicht entscheiden kannst. 
+
+![Genmodell.](https://bioinformatics-ca.github.io/images/Igv-genes.png)
+
+Gene werden als Linien und Kästchen dargestellt. Linien stehen für intronische Regionen und Kästchen für exonische Regionen. Die Pfeile zeigen den Strang an, auf dem das Gen liegt.
+
+Wenn sie geladen werden, werden die Gleise übereinander gestapelt. Sie können erkennen, welche Gleise welche ist, indem Sie die Beschriftung links von jeder Gleise konsultieren.
+
