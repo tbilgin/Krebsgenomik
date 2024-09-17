@@ -63,5 +63,21 @@ Manchmal ist es wirklich nützlich, dort zu speichern, wo du bist, oder Regionen
 
 ![Lesezeichen in IGV.](https://bioinformatics-ca.github.io/images/Igv-bookmarks.png)
 
+## Loading Read Alignments
+
+We will visualize alignments from the breast cancer cell line HCC1143. For speed, only a small portion of chr21 will be loaded (19M:20M).
+
+*HCC1143 Alignments to hg19:* 
+
+* [HCC1143.normal.21.19M-20M.bam](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/data_sets/HCC1143.normal.21.19M-20M.bam)
+* [HCC1143.normal.21.19M-20M.bam.bai](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/data_sets/HCC1143.normal.21.19M-20M.bam.bai)
+
+*Note: these are the same files listed at the top of tutorial.*
+
+Copy the files to your computer, and in IGV choose *File > Load from File*, select the bam file, and click **OK**. Note that the bam and index files *must* be in the same directory for IGV to load these properly, but only the bam file (not the bam.bai index file) needs to be loaded into IGV.
+
+![Load BAM track from File](https://bioinformatics-ca.github.io/images/Igv_load_bam.png)
+
+
 Wenn sie geladen werden, werden die Gleise übereinander gestapelt. Sie können erkennen, welche Gleise welche ist, indem Sie die Beschriftung links von jeder Gleise konsultieren.
 
