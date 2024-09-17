@@ -91,5 +91,12 @@ Experimentiere mit den verschiedenen Einstellungen, indem Sie mit der rechten Ma
 
 Die Werte werden durch übereinander gestapelte graue oder weiße Balken dargestellt, an denen sie zum Referenzgenom ausgerichtet waren. Die Werte werden gezeigt, um ihre Orientierung anzugeben (d.h. den Strang, auf dem sie abgebildet sind). Standardmäßig werden einzelne Basen nur eingefärbt, wenn sie eine **Missübereinstimmung** mit der Referenz aufweisen.    Die Transparenz der mismatched Bases entspricht der **Base-Qualität** (im Wesentlichen, wie sicher wir sind, dass die Sequenzierungsmaschine die richtige Basis genannt hat).
 
+# Visualisierung Teil 2: Überprüfen von SNPs, SNVs und SVs 
+
+Navigiere zur Position "chr21:19.479.237-19.479.814"
+  * Die Mitte der SNV wird durch die rote und blaue Färbung in der Coverage-Spur angezeigt. Sie können zentrieren, indem Sie auf die Ausrichtungen klicken und diese nach links oder rechts ziehen, bis die SNV mit der schwarzen Mittellinie übereinstimmt. (Wenn die Mittellinie nicht sichtbar ist, schalte sie ein, indem du auf *View -> Preferences -> Alignments -> Show center line* gehst). Du kannst auch "chr21:19.478.749-19.479.891" in die Navigationsleiste eingeben, um die SNV zu zentrieren.
+  * Sortieren von Ausrichtungen nach "Basis"
+  * Farbausrichtungen nach "Lesenstrang". **Rote**-Lesezeichen sind in der **vorwärts**-Lesezeichen und **blaue**-Lesezeichen sind in der **umgekehrten Orientierung**.
+
 Wenn sie geladen werden, werden die Gleise übereinander gestapelt. Sie können erkennen, welche Gleise welche ist, indem Sie die Beschriftung links von jeder Gleise konsultieren.
 
