@@ -57,5 +57,11 @@ Du kannst zu einem interessanten Gen navigieren, indem du es in das gleiche Feld
 
 Gene werden als Linien und Kästchen dargestellt. Linien stehen für intronische Regionen und Kästchen für exonische Regionen. Die Pfeile zeigen den Strang an, auf dem das Gen liegt.
 
+## Regionenlisten
+
+Manchmal ist es wirklich nützlich, dort zu speichern, wo du bist, oder Regionen von Interesse zu laden. Zu diesem Zweck gibt es einen **Region Navigator** in IGV. Um darauf zuzugreifen, klicke auf *Regionen > Region Navigator*. Während Sie im Genom surfen, können Sie einige Lesezeichen speichern, indem Sie die **Hinzufügen**-Taste drücken. Füge im Feld **Beschreibung** eine nützliche Beschriftung hinzu, damit du dich später merken kannst, warum du die Region gespeichert hast.
+
+![Lesezeichen in IGV.](https://bioinformatics-ca.github.io/images/Igv-bookmarks.png)
+
 Wenn sie geladen werden, werden die Gleise übereinander gestapelt. Sie können erkennen, welche Gleise welche ist, indem Sie die Beschriftung links von jeder Gleise konsultieren.
 
