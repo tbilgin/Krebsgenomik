@@ -78,6 +78,18 @@ Kopiere die Dateien auf deinen Computer und wähle in IGV *Datei > Von Datei lad
 
 ![BAM-Track aus Datei laden](https://bioinformatics-ca.github.io/images/Igv_load_bam.png)
 
+## Leseausrichtungen visualisieren
+Navigiere zu einem schmalen Fenster auf Chromosom 21: "chr21:19.480.041-19.480.386". 
+
+Mit IGV kannst du gruppieren, sortieren und farbige Ausrichtungen zur besseren Visualisierung der Daten. Um unsere Exploration zu starten, klicke mit der rechten Maustaste auf den Tracknamen und wähle die folgenden Optionen:
+* Sortieren von Ausrichtungen nach "Startposition"
+* Gruppenausrichtungen nach "Paarorientierung"
+
+Experimentiere mit den verschiedenen Einstellungen, indem Sie mit der rechten Maustaste auf die Leseausrichtungsspur klicken und die Optionen umschalten. Überlegen Sie, welche für bestimmte Aufgaben am besten geeignet sind (z.B. Qualitätskontrolle, SNP-Aufruf, CNV-Findung).
+
+![Informationen lesen.](https://bioinformatics-ca.github.io/images/Igv_sort_and_group.png)
+
+Die Werte werden durch übereinander gestapelte graue oder weiße Balken dargestellt, an denen sie zum Referenzgenom ausgerichtet waren. Die Werte werden gezeigt, um ihre Orientierung anzugeben (d.h. den Strang, auf dem sie abgebildet sind). Standardmäßig werden einzelne Basen nur eingefärbt, wenn sie eine **Missübereinstimmung** mit der Referenz aufweisen.    Die Transparenz der mismatched Bases entspricht der **Base-Qualität** (im Wesentlichen, wie sicher wir sind, dass die Sequenzierungsmaschine die richtige Basis genannt hat).
 
 Wenn sie geladen werden, werden die Gleise übereinander gestapelt. Sie können erkennen, welche Gleise welche ist, indem Sie die Beschriftung links von jeder Gleise konsultieren.
 
