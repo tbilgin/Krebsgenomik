@@ -63,20 +63,20 @@ Manchmal ist es wirklich nützlich, dort zu speichern, wo du bist, oder Regionen
 
 ![Lesezeichen in IGV.](https://bioinformatics-ca.github.io/images/Igv-bookmarks.png)
 
-## Loading Read Alignments
+## Leseausrichtungen laden
 
-We will visualize alignments from the breast cancer cell line HCC1143. For speed, only a small portion of chr21 will be loaded (19M:20M).
+Wir werden Ausrichtungen der Brustkrebszelllinie HCC1143 visualisieren. Für die Geschwindigkeit wird nur ein kleiner Teil von chr21 geladen (19M:20M).
 
-*HCC1143 Alignments to hg19:* 
+*HCC1143 Angleichungen an hg19:* 
 
 * [HCC1143.normal.21.19M-20M.bam](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/data_sets/HCC1143.normal.21.19M-20M.bam)
 * [HCC1143.normal.21.19M-20M.bam.bai](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/data_sets/HCC1143.normal.21.19M-20M.bam.bai)
 
-*Note: these are the same files listed at the top of tutorial.*
+*Hinweis: Dies sind die gleichen Dateien, die oben im Tutorial aufgeführt sind.*
 
-Copy the files to your computer, and in IGV choose *File > Load from File*, select the bam file, and click **OK**. Note that the bam and index files *must* be in the same directory for IGV to load these properly, but only the bam file (not the bam.bai index file) needs to be loaded into IGV.
+Kopiere die Dateien auf deinen Computer und wähle in IGV *Datei > Von Datei laden*, wähle die bam-Datei und klicke auf **OK**. Beachte, dass die bam- und die Indexdateien *müssen* im selben Verzeichnis liegen, damit IGV sie richtig laden kann, aber nur die bam-Datei (nicht die bam.bai-Indexdatei) muss in IGV geladen werden.
 
-![Load BAM track from File](https://bioinformatics-ca.github.io/images/Igv_load_bam.png)
+![BAM-Track aus Datei laden](https://bioinformatics-ca.github.io/images/Igv_load_bam.png)
 
 
 Wenn sie geladen werden, werden die Gleise übereinander gestapelt. Sie können erkennen, welche Gleise welche ist, indem Sie die Beschriftung links von jeder Gleise konsultieren.
