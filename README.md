@@ -8,7 +8,10 @@ Erstens werden wir über Krebs und die Rolle von Mutationen bei der Krebsentsteh
 3) Dieses Papier an Krebsgene: [Mutationen gezielt aufspüren](https://www.organische-chemie.ch/chemie/2007feb/mutationen.shtm) 
 
 ## Mit Bioinformatik-Werkzeugen zur Erforschung von Krebsgenen:
-Wir werden Krebsgene im Integrative Genomics Viewer Tool untersuchen, einem Online-Tool, das ihr im Browser verwenden könnt, um Mutationen in Genen zu visualisieren. 
+1) Zuerst werden wir den Umgang von Bioinformatik-Werkzeuge kennenlernen. Wir werden die Studie von Genomik [hier](https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr2%3A25164893%2D25164925&hgsid=2352559421_I4NPUDNtpp2HapAMaghZPgyd0kNp) entdecken, Gene in einem Genom finden, Genteile erkennen. Wir werden anschauen, welche Daten hier zu finden sind und wie man diese herunterlädt.
+2) Zweitens werden wir individuelle Gene[ hier mit Hilfe von diesem Datenbank](https://www.genecards.org) studieren: Genfuntione, wo in der Zelle sie arbeiten, falls sie zu den anderen Genen binden, was für Krankheiten ihre Mutationen verursachen.
+
+Wir werden Krebsgene im Integrative Genomics Viewer Tool untersuchen, einem Online-Tool, das ihr im Browser verwenden könnt, um Mutationen in Genen zu visualisieren. Hier ist der [Arbeitablauf](https://github.com/tbilgin/Krebsgenomik/blob/main/Visualisierung.md).
 
 ## Codieren, Zahlen erstellen:
 Wir analysieren dann Krebsgene basierend auf ihrer Häufigkeit, Funktion und Variation. 
