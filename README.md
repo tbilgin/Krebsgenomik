@@ -21,10 +21,10 @@ Wir werden einen umfassenden Blick auf Bioinformatik-Datenbanke und Werkzeuge we
 2) Zweitens werden wir individuelle Krebsgene[ hier mit Hilfe von diesem Datenbank](https://www.genecards.org) studieren: Genfuntione, wo in der Zelle sie arbeiten, falls sie zu den anderen Genen binden, was für Krankheiten ihre Mutationen verursachen.
 3) Letztens werden wir Krebsgene im Integrative Genomics Viewer Tool untersuchen, einen Online-Tool, um Mutationen in Genen zu visualisieren. Hier ist der [Arbeitablauf](https://github.com/tbilgin/Krebsgenomik/blob/main/Visualisierung.md).
 
-### Codieren um Datenanalyse:
+### Codieren für Datenanalyse:
 Wir analysieren dann Krebsgene je nach ihrer Häufigkeit und Variation. Hier ist der Arbeitlauf.
 
-### Klassifizierung von Daten:
+### Klassifizierung von Daten (optional):
 Wir werden zunächst Lernalgorithmen anwenden, um Krebsgene anhand der oben aufgeführten Merkmale zu erkennen und anschliessend einen speziellen Fall von Darmkrebsmutationen zu untersuchen, um die tumorbasierten Mutationen zu klassifizieren. Hier ist der [Arbeitslauf](https://colab.research.google.com/github/tbilgin/SURGE/blob/master/MachineLearningBioinfo4B.ipynb).
 
 ### kleine Projekte
