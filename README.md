@@ -1,13 +1,21 @@
 # Vorschlag für IDPA: Interdisziplinäre Projektarbeiten mit der ZHAW
 ## Die Brücke zwischen Berufsmaturität und Fachhochschulstudium im Kanton Zürich
 
-In diesem Projekt geht es darum, dass Mitarbeitende der ZHAW in Lehre und/oder Forschung Berufsmaturitäts-Lernende der BM-Ausrichtung TALS (Technik, Architektur, Life Sciences) beim Verfassen ihrer BM-Abschlussarbeit in fachlicher Hinsicht als ZHAW-Coaches unterstützen. Die Hauptbetreuungsperson ist nach wie vor die Lehrperson an der BM-Schule (siehe «Konzept IDPA mit der ZHAW» im Anhang).
+In diesem Projekt geht es darum, dass Mitarbeitende der ZHAW in Lehre und/oder Forschung Berufsmaturitäts-Lernende der BM-Ausrichtung TALS (Technik, Architektur, Life Sciences) beim Verfassen ihrer BM-Abschlussarbeit in fachlicher Hinsicht als ZHAW-Coaches unterstützen. Die Hauptbetreuungsperson ist nach wie vor die Lehrperson an der BM-Schule .
 
 
 # Bioinformatik und Krebsforschung 
 Heute erfordern alle Bereiche der Biowissen-schaften Fähigkeiten im Umgang mit Daten. In diesem Projekt lernen Sie verschiedene Bioinformatik-Werkzeuge kennen, bei denen Sie Datensätze in der Molekularbiologie verwenden werden. Sie lernen die Grundlagen der Pro-grammiersprache Python kennen, um einige wis-senschaftliche Analysen und sogar eine sehr einfache Version des Algorithmus des maschinellen Lernens durchzuführen. Sie haben die Chance, Krebs-Datensätze zu bearbeiten, um Mutationen und Gene, die an der Krankheit beteiligt sind, zu identifizieren, nach deren Funktionen zu suchen und Plots mit Ihren Ergebnissen zu erstellen. Dieses Projekt soll euch dabei helfen, Data Science-Themen im Bereich Krebs mit Hilfe von Bioinformatik zu erforschen und Erfahrungen mit einfachen statistischen und maschinellen Lernanalysen durch Codieren zu sammeln. Auf diese Weise habt ihr vielleicht die erste Gelegenheit, einen Einblick in die personalisierte Medizin zu bekommen, ein Gebiet, das erst vor kurzem entstanden ist, aber auch rasant wächst. 
 
 ## Vorgeschlagener Plan:
+
+### Lernziele:
+- wissenschaftliche Literatur lesen und verfolgen 
+- erklären, was ein Bioinformatiker in der Genomik macht, insbesondere in der Krebsforschung
+- sich mit grundlegenden Bioinformatik-Werkzeugen und Datenbanken vertraut machen
+- Code schreiben oder manupluieren, um einfache Analysen in der Krebsforschung durchzuführen
+- Interpretation der Ergebnisse der Genomik-Analysen
+- optional: Erstelle wissenschaftliche Fragen, gestalte einen einfachen Workflow zur Beantwortung dieser Frage und führe selbst Analysen in der Krebsgenomik durch
 
 ### Literaturdiskussion
 Erstens werden wir über Krebs und die Rolle von Mutationen bei der Krebsentstehung sprechen. Hier sind die Literaturprobe:
