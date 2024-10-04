@@ -8,11 +8,11 @@ Beginnen Sie mit der Erkundung der Ergebnisse auf dieser Seite. Füllen Sie die 
 Gen-ID:
 Vollständiger Genname: 
 # Schritt 3: 
-Suchen Sie die Zusammenfassung. Schreiben Sie eine kurze Beschreibung der Genzusammenfassung. Übersetzen Sie, wenn nötig. Was macht dieses Gen? Was kann seine Mutation verursachen?
+Suchen Sie 'Summary'. Schreiben Sie eine kurze Beschreibung der Genzusammenfassung. Übersetzen Sie, wenn nötig. Was macht dieses Gen? Was kann seine Mutation verursachen?
 # Schritt 4: 
-Finden Sie den grauen Genom-Kontextbalken. Auf welchem Chromosom befindet sich dieses Gen?
+Finden Sie den grauen Genomic context-balken. Auf welchem Chromosom befindet sich dieses Gen?
 # Schritt 5: 
-Scrollen Sie nach unten zur grauen Genomregionen, Transkripte und Produkteleiste.  Suchen und klicken Sie auf das ATG-Symbol oben in der Genom-Browser-Ansicht. Diese Schaltfläche zoomt auf die Nukleotidebene, anstatt das ganze Gen zu betrachten. Rechts unter 'Live RefSNPs, dbSNP' sehen wir einige der bekannten Mutationen dieses Gens. 
+Scrollen Sie nach unten zu 'Genomic regions, transcripts and products'.  Suchen und klicken Sie auf das ATG-Symbol oben in der Genom-Browser-Ansicht. Diese Schaltfläche zoomt auf die Nukleotidebene, anstatt das ganze Gen zu betrachten. Rechts unter 'Live RefSNPs, dbSNP' sehen wir einige der bekannten Mutationen dieses Gens. 
 # Schritt 6: 
 Klicken Sie auf ClinVar im linken Bereich, um die häufige klinisch relevante Variation des untersuchten Gens zu sehen. Welche Arten von Mutationen sehen Sie? Wie viele davon sind pathogen? Wie viele stehen in Zusammenhang mit einer Krebserkrankung?
 # Schritt 7: 
