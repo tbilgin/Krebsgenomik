@@ -22,7 +22,8 @@ Erstens werden wir über Krebs und die Rolle von Mutationen bei der Krebsentsteh
 1) folgende Seiten auf studyflix.de : [Gen](https://studyflix.de/biologie/gen-2599), [Genom](https://studyflix.de/biologie/genom-2645), [Genwirkkette](https://studyflix.de/biologie/genwirkkette-6706), [Proteinbiosynthese](https://studyflix.de/biologie/proteinbiosynthese-2288), [DNA Funktion](https://studyflix.de/biologie/dna-funktion-2601), [Mutation](https://studyflix.de/biologie/mutation-2582), [Mutagene](https://studyflix.de/biologie/mutagene-2574)
 2) [Dieses ETH Video](https://ethz.ch/de/studium/bachelor/studienangebot/naturwissenschaften-und-mathematik/biologie/schnuppervorlesungen/-genetik--genomik--bioinformatik---dr--ulrich-genick-.html)
 3) Dieses Papier an Krebsgene: [Mutationen gezielt aufspüren](https://www.organische-chemie.ch/chemie/2007feb/mutationen.shtm)
-4) [Dieses Papier auf Englisch](https://www.nature.com/articles/nature07943)
+4) [Kapitel 52 in diesem Buch](https://link.springer.com/chapter/10.1007/978-3-662-60266-9_52)
+5) [Dieses Papier auf Englisch](https://www.nature.com/articles/nature07943)
 
 ### Mit Bioinformatik-Datenbanke und Werkzeuge zur Erforschung von Krebsgenen:
 Wir werden einen umfassenden Blick auf Bioinformatik-Datenbanke und Werkzeuge werfen.  
