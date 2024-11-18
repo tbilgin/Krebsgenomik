@@ -2,10 +2,16 @@
 
 Dies ist eine explorative Datenanalyse von Krebsgenen. Der Datensatz kommt aus ['Personalized Medicine: Redefining Cancer Treatment challenge](https://www.kaggle.com/competitions/msk-redefining-cancer-treatment/data?select=training_variants.zip)'. Wir werden ggplot2 und die Tidyverse-Werkzeuge verwenden, um die Strukturen in den Daten zu untersuchen und zu visualisieren.
 
-1) R Studio heruterladen und installieren
+1) R Studio heruterladen und installieren [via hier](https://posit.co/download/rstudio-desktop/) 
 2) Projekt erstellen und ein Skript öffnen
-3) Datensatz heruterladen und installieren
-4) Analyse in R, die Koden sind unten
+3) Datensatz heruterladen, und im gleichen Ordner wie Projekt speichern
+4) R Kode heruterladen, und im gleichen Ordner wie Projekt und Datensatz speichern 
+5) Double click R Kode um ihn im R Studio zu öffnen, clicke an Run um den Kode auszuführen
+
+Hier ist wie man im R Studio Projekte erstellt:
+<img width="1010" alt="Bildschirmfoto 2024-11-18 um 08 07 31" src="https://github.com/user-attachments/assets/81c31a68-2790-405c-9fe2-60481591cba8">
+
+
 
 
 ## Skript
