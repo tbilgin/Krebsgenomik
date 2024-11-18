@@ -5,8 +5,8 @@ Dies ist eine explorative Datenanalyse von Krebsgenen. Der Datensatz kommt aus [
 1) R Studio heruterladen und installieren [via hier](https://posit.co/download/rstudio-desktop/) 
 2) Projekt erstellen
 3) [Datensatz](https://github.com/tbilgin/Krebsgenomik/blob/main/variants) heruterladen, und im gleichen Ordner wie Projekt speichern
-4) R Kode heruterladen, und im gleichen Ordner wie Projekt und Datensatz speichern 
-5) Double click R Kode um ihn im R Studio zu öffnen, clicke an Run um den Kode auszuführen
+4) [R Kode](https://github.com/tbilgin/Krebsgenomik/blob/main/Gene_Variants.R) herunterladen, und im gleichen Ordner wie Projekt und Datensatz speichern 
+5) Double click an R Kode um ihn im R Studio zu öffnen, clicke an Run um den Kode auszuführen
 
 Hier ist wie man im R Studio Projekte erstellt:
 <img width="1010" alt="Bildschirmfoto 2024-11-18 um 08 07 31" src="https://github.com/user-attachments/assets/81c31a68-2790-405c-9fe2-60481591cba8">
