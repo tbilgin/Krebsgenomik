@@ -33,7 +33,7 @@ Wir werden einen umfassenden Blick auf Bioinformatik-Datenbanke und Werkzeuge we
 Wir analysieren dann Krebsgene je nach ihrer Häufigkeit und Variation. Hier ist [der Arbeitlauf.](https://github.com/tbilgin/Krebsgenomik/blob/main/R_Analyse.md)
 
 ### Klassifizierung von Daten:
-Wir werden zunächst Lernalgorithmen anwenden, um Krebsgene anhand der oben aufgeführten Merkmale zu erkennen und anschliessend einen speziellen Fall von Darmkrebsmutationen zu untersuchen, um die tumorbasierten Mutationen zu klassifizieren. Hier ist der [Arbeitslauf](https://colab.research.google.com/github/tbilgin/SURGE/blob/master/MachineLearningBioinfo4B.ipynb).
+Wir werden zunächst Lernalgorithmen anwenden, um Krebsgene anhand der oben aufgeführten Merkmale zu erkennen und anschliessend einen speziellen Fall von Darmkrebsmutationen zu untersuchen, um die tumorbasierten Mutationen zu klassifizieren. Hier ist der [Arbeitslauf](https://colab.research.google.com/github/tbilgin/SURGE/blob/master/MachineLearningBioinfo4B.ipynb). Und hier sind [die Daten](https://github.com/tbilgin/Krebsgenomik/blob/main/patient_data.xlsx). 
 
 ### kleine Projekte
 Ihr werdet als Paare arbeiten und frei sein mit Hilfe von diversen Bioinformatik-Datenbanken und Werkzeugen um Krebsgene eures Wunsches zu studieren.
