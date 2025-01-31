@@ -1,8 +1,5 @@
 # Maschinelles Lernen und Krebsgenomik
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FB9780443275746000175&psig=AOvVaw3HO4Cdfnzkq3PGpC0pjM5p&ust=1738405217057000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCF_p7en4sDFQAAAAAdAAAAABBI![image](https://github.com/user-attachments/assets/d502a3d4-95bd-42b4-b217-b6c815bc4203)
-
-
 Hier sind einige Beispiele und nützliche Quellen.
 
 Schauen wir uns zuerst die Datenquellen an.
