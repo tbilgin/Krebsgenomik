@@ -12,8 +12,9 @@ https://www.cancer.gov/ccg/research/genome-sequencing/tcga
 
 
 Man kann diese Daten um die Krebsorten zu erraten benutzen. Wie in diesem [Papier](https://www.nature.com/articles/s41598-019-53989-3):
+![41598_2019_53989_Fig1_HTML](https://github.com/user-attachments/assets/62149f28-7e8a-4284-8f0b-a21f925956d7)
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41598-019-53989-3&psig=AOvVaw3HO4Cdfnzkq3PGpC0pjM5p&ust=1738405217057000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCF_p7en4sDFQAAAAAdAAAAABBQ![image](https://github.com/user-attachments/assets/e053421b-490a-47aa-94ac-35e0081a8f5b)
+
 
 
 
