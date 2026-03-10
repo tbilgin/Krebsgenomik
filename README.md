@@ -27,7 +27,26 @@ Erstens werden wir über Krebs und die Rolle von Mutationen bei der Krebsentsteh
 
 ### Mit Bioinformatik-Datenbanke und Werkzeuge zur Erforschung von Krebsgenen:
 Wir werden einen umfassenden Blick auf Bioinformatik-Datenbanke und Werkzeuge werfen.  
-1) Zuerst werden wir den Umgang von Bioinformatik-Datenbanke kennenlernen. Wir werden die Studie von Genomik entdecken, Gene in einem Genom finden, Genteile erkennen. Wir werden anschauen, welche Daten hier zu finden sind und wie man diese herunterlädt. Hier werden wir individuelle Krebsgene studieren: Genfunktione, wo in der Zelle sie arbeiten, falls sie zu den anderen Genen binden, was für Krankheiten ihre Mutationen verursachen. Letztens werden wir diese Gene und ihre Mutationen in Genen visualisieren. Hier ist [der Arbeitslauf](https://github.com/tbilgin/Krebsgenomik/blob/main/Krebsgen_Analyse.md). Als Teil Ihres Projekts werden Sie diese Übung mit einem Krebsgen Ihrer Wahl wiederholen und die Geschichte dieses Gens erzählen. Sie können auch weitere Fragen stellen und einfache Analysen an diesem Gen durchführen, entweder mit Hilfe von Codierungs- oder Bioinformatik-Tools.
+1) Zuerst werden wir den Umgang von Bioinformatik-Datenbanke kennenlernen. Wir werden die Studie von Genomik entdecken, Gene in einem Genom finden, Genteile erkennen. Wir werden anschauen, welche Daten hier zu finden sind und wie man diese herunterlädt. Hier werden wir individuelle Krebsgene studieren: Genfunktionen, wo in der Zelle sie arbeiten, falls sie zu den anderen Genen binden, was für Krankheiten ihre Mutationen verursachen. Letztens werden wir diese Gene und ihre Mutationen in Genen visualisieren. Hier ist [der Arbeitslauf](https://github.com/tbilgin/Krebsgenomik/blob/main/Krebsgen_Analyse.md). Als Teil Ihres Projekts werden Sie diese Übung mit einem Krebsgen Ihrer Wahl wiederholen und die Geschichte dieses Gens erzählen. Sie können auch weitere Fragen stellen und einfache Analysen an diesem Gen durchführen, entweder mit Hilfe von Codierungs- oder Bioinformatik-Tools.
+
+Hier ist ein Datenbank für Krebsgenetik: https://www.cbioportal.org und ein Beispiel im Ovarian Krebs: https://www.cbioportal.org/study/summary?id=ovary_cptac_gdc
+
+
+### Codierung und Datenanalyse im Krebsgenetik:
+
+Hier sind Aufgaben im Google Colab Notebooks. Die werden euch helfen, um benötigte Skills für dieses Projekt zu lernen: 
+
+1) Einführung zum Programmieren. https://colab.research.google.com/drive/14M8xdObstM00NpY3WYDfsY9qtzvJgLZ2?usp=sharing
+
+Bitte erstellen Sie eine Kopie dieses Notizbuchs in Ihrem eigenen Google Drive. Diese Datei kann nicht bearbeitet werden, aber Ihre eigene Datei können Sie bearbeiten. Ich empfehle Ihnen, sich vor dem Start ein Video zur Verwendung von Google Collab anzusehen. Einige praktische Informationen: Jede Zelle enthält entweder einen Code oder einen Text. Bitte führen Sie die Zelle aus, wenn es sich um einen Code handelt. Es ist wichtig, dass Sie jeden Code ausführen, da der Rest des Codes die Ausgabe verwendet. Wie führt man einen Code in diesem Notizbuch aus? Bewegen Sie die Maus vor den Code, es erscheint ein Häkchen. Klicken Sie auf das Häkchen. Es wird grün, sobald der Befehl ausgeführt wurde.
+
+2) Datenanalyse: https://colab.research.google.com/drive/1BjXFKwp2sGr5GohkW_4YQQH3wjeT5VAb?usp=sharing
+3) Visualisierung: https://colab.research.google.com/drive/1jJnNhT7Aa26BIw5hfU6dGEC9nFFaeWmv?usp=sharing
+
+
+
+
+
 
 ### Codieren für Datenanalyse:
 Wir analysieren dann Krebsgene je nach ihrer Häufigkeit und Variation. Hier ist [der Arbeitlauf.](https://github.com/tbilgin/Krebsgenomik/blob/main/R_Analyse.md)
@@ -36,4 +55,4 @@ Wir analysieren dann Krebsgene je nach ihrer Häufigkeit und Variation. Hier ist
 Wir werden zunächst Lernalgorithmen anwenden, um Krebsgene anhand der oben aufgeführten Merkmale zu erkennen und anschliessend einen speziellen Fall von Darmkrebsmutationen zu untersuchen, um die tumorbasierten Mutationen zu klassifizieren. Hier ist der [Arbeitslauf](https://colab.research.google.com/github/tbilgin/SURGE/blob/master/MachineLearningBioinfo4B.ipynb). Und hier sind [die Daten](https://github.com/tbilgin/Krebsgenomik/blob/main/patient_data.xlsx). 
 
 ### kleine Projekte
-Ihr werdet als Paare arbeiten und frei sein mit Hilfe von diversen Bioinformatik-Datenbanken und Werkzeugen um Krebsgene eures Wunsches zu studieren.
+Ihr werdet als Paare arbeiten und frei sein mit Hilfe von diversen Bioinformatik-Datenbanken und Werkzeugen um Krebsgene eures Wunsches zu studieren. Das Ziel ist einen Workflow erstellen, um Krebsgene zu analysieren.
